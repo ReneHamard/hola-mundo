@@ -1,5 +1,5 @@
-# hola-mundo
-Mi primer repositorio de prueba.
+# hola mundo
+Mi primer repositorio
 
 Autor: Rene
 Fecha: 8 de febrero
